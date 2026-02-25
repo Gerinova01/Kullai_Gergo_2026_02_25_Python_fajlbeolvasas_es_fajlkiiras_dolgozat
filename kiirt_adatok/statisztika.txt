@@ -1,0 +1,6 @@
+1. A beolvasott fájlban összesen 29 könyv szerepel.
+2. A legtöbb oldalas könyv: A gróf Monte Cristo.
+3. A legkevesebb oldalas könyv: A kis herceg.
+4. A legtöbb könyvet író szerző: A Szélben az árnyék.
+5. Az átlagos oldalszám: 540.
+***A legtöbb könyvet kiadó kiadó: Száz év magány.
